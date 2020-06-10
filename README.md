@@ -10,15 +10,6 @@
 
 아래의 리스트의 형식에 맞게 멋진 이력서를 이름, URL 과 함께 PR로 남겨주세요!
 
-## Editor's pick
-
-| 이름    | URL                                |
-| ------ | ---------------------------------- |
-| 이동욱   | https://jojoldu.github.io/         |
-| 이재연   | https://leejaedus.github.io/resume/|
-| 이현섭   | https://hyunseob.github.io/resume/ |
-
-
 ## Resume List
 
 | 이름    | URL                                |
