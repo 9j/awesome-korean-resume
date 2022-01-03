@@ -29,3 +29,7 @@ slide나 PDF, docs 등의 링크를 남겨주셔도 좋습니다.
 | 이동욱   | https://jojoldu.github.io/         |
 | 이재연   | https://leejaedus.github.io/resume/|
 | 이현섭   | https://hyunseob.github.io/resume/ |
+
+## 읽어볼만한 글
+
+- [How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/?cb=1)
