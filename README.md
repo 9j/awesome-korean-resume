@@ -30,6 +30,20 @@ slide나 PDF, docs 등의 링크를 남겨주셔도 좋습니다.
 | 이재연   | https://leejaedus.github.io/resume/|
 | 이현섭   | https://hyunseob.github.io/resume/ |
 
+## 리쿠르터가 주로보는 부분
+
+### 내가 신입이다
+
+  - 인턴십 등 실제 이력
+  - 실제 프로젝트 (ex. 오픈 소스)
+  - 동아리 등에서의 리더십
+
+### 나는 경력직이다
+
+  - 경력: 현재 회사 와 직책
+  - 기술 스택
+  - 오픈 소스 기여, 강연, 블로깅 등 외부 활동
+
 ## 읽어볼만한 글
 
 - [How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/?cb=1)
