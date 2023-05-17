@@ -46,6 +46,7 @@ slide나 PDF, docs 등의 링크를 남겨주셔도 좋습니다.
 
 ## 읽어볼만한 글
 
+- [좋은❌ 훌륭한✅ 이력서를 쓰는 법 (작성중)](https://world.hey.com/bach/post-025aca8b)
 - [How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/?cb=1)
 - [Create Your Resume for Google: Tips and Advice](https://www.youtube.com/watch?v=BYUy1yvjHxE)
 - [Google resume tips and advice](https://www.youtube.com/watch?v=S_Macvy5CQE)
